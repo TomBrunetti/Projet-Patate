@@ -6,9 +6,7 @@
 //****************************************************************************************
 
   //Declaration des variables globales
-  int test = 0; 
-  int test2 = 0;
-  int test3 = 0;
+  int test = 0;
 
   const int outPin = 9;             //output pin
   const float maxFreq = 16000000;   //max freq supported by Arduino (16MHz)
